@@ -12,9 +12,9 @@ import com.itextpdf.html2pdf.HtmlConverter;
 
 public class DB_Handler {
 	
-	private String url = "jdbc:mysql://localhost:3307/bank_schema";       
+	private String url = "jdbc:mysql://localhost:3306/bank_schema";
 	private String username = "root";
-	private String password = "sunshine";
+	private String password = "rootroot";
 	private Connection conn;
 	
 	
